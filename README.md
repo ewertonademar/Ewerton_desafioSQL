@@ -1,5 +1,6 @@
 Dado	o	modelo	de	dados	abaixo:
 
+![tabela](https://user-images.githubusercontent.com/21026251/61594590-e6c2a880-abc3-11e9-9cdc-3bca7c546a84.jpg)
 
 
 CREATE	SEQUENCE	PUBLIC.tb_customer_id_customer_seq OWNED	BY	
@@ -7,6 +8,7 @@ PUBLIC.tb_customer.id_customer;;
 
 SELECT	*	FROM	dm_address_type;
 
+![tabela 2](https://user-images.githubusercontent.com/21026251/61594649-aa437c80-abc4-11e9-904c-27bee23e5a97.jpg)
 
 1	- Identifique	as	colunas	que	compõe	a	chave	primária	de	cada	tabela.
 
